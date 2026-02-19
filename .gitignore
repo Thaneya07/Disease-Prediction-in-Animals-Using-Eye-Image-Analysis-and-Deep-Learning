@@ -1,1 +1,10 @@
 dataset/
+<<<<<<< HEAD
+=======
+__pycache__/
+*.h5
+*.zip
+*.csv
+.env
+.DS_Store
+>>>>>>> 918ac55 (Initial project code upload)
